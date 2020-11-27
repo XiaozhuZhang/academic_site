@@ -74,7 +74,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: media/cv.pdf
+  link: media/cv_cn.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -91,8 +91,26 @@ user_groups:
 
 你好吖 ~
 
-我是张潇竹，现在在德国德累斯顿工业大学做博后。
+我是张潇竹，现在在德国德累斯顿工业大学做博后，正在努力成为一个复杂系统科学家 :smile:
 
+小时候看的一本科普书《从混沌到有序》点燃了我对复杂系统的兴趣：原来在我们身边复杂系统无处不在，而且通过系统中各部分的相互作用，无序中可以诞生有序，随机中可以诞生确定，这简直太神奇了。
 
+怀着想好好研究复杂系统的心情，我来到德国求学，从本科到博后，一转眼已经十多年。通过一个个课题，一篇篇论文，在各位导师的帮助下，我对复杂系统，特别是复杂网络动力学有了比小时候更深刻的了解，但所面临的未知却更浩瀚了：例如，在一个结构复杂的电网中，一根电缆的故障如何导致整个系统的崩溃？我们又如何利用复杂网络的结构和相互作用，建造更稳定更安全更可控的系统？
+
+路漫漫其修远兮，上下求索是初心，也是惟一所愿。
+
+---
+
+{{< icon name="terminal" pack="fas" >}} 最近在做什么呢？
+
+- [ ] 写下一篇paper咯
+- [ ] 准备12月一个线上会议的演讲
+- [ ] 找国内教职中，愿一切顺利 :pray:
+
+{{< icon name="terminal" pack="fas" >}} 已完成：
+
+- [x] 第一篇PRL的文章终于发表啦 ~
+
+更新于2020.11.26
 
 <!--Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.-->

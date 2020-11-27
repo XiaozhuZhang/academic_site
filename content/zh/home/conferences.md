@@ -1,70 +1,56 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/conference/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "学术会议"
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-  # Choose how many pages you would like to offset by
-  offset = 0
+[[item]]
+  organization = "线上"
+  organization_url = ""
+  title = "Localisation 2020: Anderson Localisation and Related Topics"
+  url = "https://sites.google.com/view/localisation2020/home"
+  certificate_url = ""
+  date_start = "2020-08-24"
+  date_end = ""
+  description = "学术海报: *Localized vs. Delocalized Responses in Fluctuation-driven Networks*"
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+[[item]]
+  organization = "德国，德累斯顿"
+  organization_url = "https://www.edx.org"
+  title = "Focus-workshop: Collective Nonlinear Dynamics of Complex Power Grid Networks"
+  url = "http://condynet.de/veranstaltungen.html"
+  certificate_url = ""
+  date_start = "2019-07-22"
+  date_end = ""
+  description = """
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+- 参与会议组织
+- 受邀报告: *Predictability of Frequency Excursions in Fluctuation-driven Power Grids*
 
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
+"""
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-
-[advanced]
- # Custom CSS. 
- css_style = ""
-
- # CSS class.
- css_class = ""
+[[item]]
+  organization = "德国，汉堡"
+  organization_url = ""
+  title = "Colloquium: Irregular Engineering Oscillations and Signal Processing"
+  url = "https://cgi.tu-harburg.de/~dynwww/cgi-bin/news/article/41-colloquium-irregular-engineering-oscillations-and-signal-processing/"
+  certificate_url = ""
+  date_start = "2018-09-10"
+  date_end = ""
+  description = "口头报告: *Localization and Distributed Dynamic Resonances in Oscillatory Networks and Power Grids*"
 
 +++
-

@@ -74,7 +74,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: media/cv.pdf
+  link: media/cv_en.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -84,15 +84,38 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Hey there! 
 
-I am Xiaozhu Zhang, a post-doctoral researcher at Technical University Dresden in Germany.
+I am Xiaozhu Zhang, a post-doctoral researcher at Technical University Dresden in Germany, and a hopefully soon-to-be complex system scientist :smile:
 
+When I was a teenager, a book called "Order out of Chaos" piqued my curiosity on complex systems: complexity lies in practically everything around us, giving rise to order from disarray and certainty from randomness—it's almost magic!
 
+To study complex systems as a science, I came to Germany, started from Bachelor and went all the way to post-doc. With the help of all my mentors, I have obtained a much deeper understanding for complex systems, especially the dynamics of complex networks, by accomplishing all the projects and theses. Yet I found myself facing an ever greater unknown than I was as a teenager: For instance, when and how a single transmission line failure triggers the global breakdown of a power grid with complex topological structure? How can we build more stable, safer and controllable systems by optimizing the connectivities and interactions between the units?
+
+> *On and on stretched my road, long it was and far,*
+>
+> *I would go high and go low in this search that I made.*
+
+These are 2000-years-old chantings by [*Qu Yuan*](https://en.wikipedia.org/wiki/Qu_Yuan) (English translation by Stephen Owen in 1996), yet still resonate with me today.
+
+---
+
+{{< icon name="terminal" pack="fas" >}} To-dos:
+- [ ] writing my next manuscript
+- [ ] preparing for an online talk in December
+- [ ] position hunting in China, hope everything goes well :pray:
+
+{{< icon name="terminal" pack="fas" >}} Done：
+
+- [x] my first PRL paper published
+
+Updated on Nov 26, 2020
+
+<!--English translation by Stephen Owen. See Stephen Owen(1996). An Anthology of Chinese Literature: Beginnings to 1911 (New York: W.W. Norton): 162–75.-->
 
 <!--Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.-->

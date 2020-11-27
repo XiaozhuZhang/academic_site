@@ -15,12 +15,12 @@
  [zh.params]
    description = ""
  [[zh.menu.main]]
-   name = "关于"
+   name = "关于我"
    url = "#about"
    weight = 1
 
 [[zh.menu.main]]
-  name = "科研"
+  name = "科研方向"
   url = "#research"
   weight = 20
 
@@ -38,8 +38,13 @@
     name = "学术会议"
     url = "#conferences"
     weight = 50
+	
+[[zh.menu.main]]
+    name = "合作者"
+    url = "#collaborator"
+    weight = 60
 
 [[zh.menu.main]]
   name = "联系我"
   url = "#contact"
-  weight = 60
+  weight = 70
