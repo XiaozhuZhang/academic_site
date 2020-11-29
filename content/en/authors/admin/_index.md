@@ -93,7 +93,7 @@ Hey there!
 
 I am Xiaozhu Zhang, a post-doctoral researcher at Technical University Dresden in Germany, and a hopefully soon-to-be complex system scientist :smile:
 
-When I was a teenager, a book called "Order out of Chaos" piqued my curiosity on complex systems: complexity lies in practically everything around us, giving rise to order from disarray and certainty from randomness—it's almost magic!
+When I was a teenager, a book called "Order out of Chaos" piqued my curiosity on complex systems: complexity lies in practically everything around us, giving rise to order from disarray and certainty from randomness—it's almost magic!
 
 To study complex systems as a science, I came to Germany, started from Bachelor and went all the way to post-doc. With the help of all my mentors, I have obtained a much deeper understanding for complex systems, especially the dynamics of complex networks, by accomplishing all the projects and theses. Yet I found myself facing an ever greater unknown than I was as a teenager: For instance, when and how a single transmission line failure triggers the global breakdown of a power grid with complex topological structure? How can we build more stable, safer and controllable systems by optimizing the connectivities and interactions between the units?
 
