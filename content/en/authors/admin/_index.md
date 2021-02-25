@@ -106,15 +106,14 @@ These are 2000-years-old chantings by [*Qu Yuan*](https://en.wikipedia.org/wiki/
 ---
 
 {{< icon name="terminal" pack="fas" >}} To-dos:
-- [ ] writing my next manuscript
-- [ ] preparing for an online talk in December
-- [ ] position hunting in China, hope everything goes well :pray:
+- [ ] revising proposal for NNSFC grant
+- [ ] drafting NS manuscript
 
 {{< icon name="terminal" pack="fas" >}} Done：
 
-- [x] my first PRL paper published
+- [x] drafting proposal for NNSFC grant
 
-Updated on Nov 26, 2020
+Updated on Feb 25, 2021
 
 <!--English translation by Stephen Owen. See Stephen Owen(1996). An Anthology of Chinese Literature: Beginnings to 1911 (New York: W.W. Norton): 162–75.-->
 

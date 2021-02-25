@@ -103,14 +103,13 @@ user_groups:
 
 {{< icon name="terminal" pack="fas" >}} 最近在做什么呢？
 
-- [ ] 写下一篇paper咯
-- [ ] 准备12月一个线上会议的演讲
-- [ ] 找国内教职中，愿一切顺利 :pray:
+- [ ] 修改优青初稿
+- [ ] 准备NS文章初稿
 
 {{< icon name="terminal" pack="fas" >}} 已完成：
 
-- [x] 第一篇PRL的文章终于发表啦 ~
+- [x] 准备优青申请初稿
 
-更新于2020.11.26
+更新于2021.02.25
 
 <!--Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.-->
