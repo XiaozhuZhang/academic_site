@@ -74,7 +74,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: media/cv_cn.pdf
+  link: media/张潇竹简历.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -99,9 +99,11 @@ user_groups:
 
 路漫漫其修远兮，上下求索是初心，也是惟一所愿。
 
----
 
-{{< icon name="terminal" pack="fas" >}} 最近在做什么呢？
+
+
+
+<!---{{< icon name="terminal" pack="fas" >}} 最近在做什么呢？
 
 - [ ] 修改优青初稿
 - [ ] 准备NS文章初稿
@@ -110,6 +112,6 @@ user_groups:
 
 - [x] 准备优青申请初稿
 
-更新于2021.02.25
+更新于2021.02.25 -->
 
 <!--Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.-->

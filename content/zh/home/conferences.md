@@ -21,6 +21,26 @@ date_format = "Jan 2006"
 [[item]]
   organization = "线上"
   organization_url = ""
+  title = "Predicting Risks in Fluctuation Driven Power Grids"
+  url = "http://physcon2021.org"
+  certificate_url = ""
+  date_start = "2021-10-04"
+  date_end = ""
+  description = "口头报告: *Predicting Risks in Fluctuation Driven Power Grids*"
+
+[[item]]
+  organization = "线上"
+  organization_url = ""
+  title = "Conference on Complex Systems 2020 Satellite"
+  url = "https://fhell.github.io/ComplexityInEnergySystems"
+  certificate_url = ""
+  date_start = "2020-12-09"
+  date_end = ""
+  description = "受邀报告: *Topological Determinants of Perturbation Spreading in Networks and Power Grids*"
+
+[[item]]
+  organization = "线上"
+  organization_url = ""
   title = "Localisation 2020: Anderson Localisation and Related Topics"
   url = "https://sites.google.com/view/localisation2020/home"
   certificate_url = ""
@@ -28,7 +48,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = "学术海报: *Localized vs. Delocalized Responses in Fluctuation-driven Networks*"
 
-[[item]]
++++
+
+<!---[[item]]
   organization = "德国，德累斯顿"
   organization_url = "https://www.edx.org"
   title = "Focus-workshop: Collective Nonlinear Dynamics of Complex Power Grid Networks"
@@ -36,14 +58,9 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-07-22"
   date_end = ""
-  description = """
+  description = """-参与会议组织-受邀报告: *Predictability of Frequency Excursions in Fluctuation-driven Power Grids*-->
 
-- 参与会议组织
-- 受邀报告: *Predictability of Frequency Excursions in Fluctuation-driven Power Grids*
-
-"""
-
-[[item]]
+<!---[[item]]
   organization = "德国，汉堡"
   organization_url = ""
   title = "Colloquium: Irregular Engineering Oscillations and Signal Processing"
@@ -51,6 +68,4 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-09-10"
   date_end = ""
-  description = "口头报告: *Localization and Distributed Dynamic Resonances in Oscillatory Networks and Power Grids*"
-
-+++
+  description = "口头报告: *Localization and Distributed Dynamic Resonances in Oscillatory Networks and Power Grids*"-->

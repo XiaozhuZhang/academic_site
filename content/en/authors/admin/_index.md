@@ -74,7 +74,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: media/cv_en.pdf
+  link: media/CV_XiaozhuZhang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -103,17 +103,19 @@ To study complex systems as a science, I came to Germany, started from Bachelor 
 
 These are 2000-years-old chantings by [*Qu Yuan*](https://en.wikipedia.org/wiki/Qu_Yuan) (English translation by Stephen Owen in 1996), yet still resonate with me today.
 
+<!---
 ---
 
 {{< icon name="terminal" pack="fas" >}} To-dos:
-- [ ] revising proposal for NNSFC grant
 - [ ] drafting NS manuscript
 
 {{< icon name="terminal" pack="fas" >}} Done：
 
 - [x] drafting proposal for NNSFC grant
+- [x] submit proposal for NNSFC grant
 
-Updated on Feb 25, 2021
+Updated on Oct 25, 2021
+-->
 
 <!--English translation by Stephen Owen. See Stephen Owen(1996). An Anthology of Chinese Literature: Beginnings to 1911 (New York: W.W. Norton): 162–75.-->
 

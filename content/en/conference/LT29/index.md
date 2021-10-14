@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Localisation 2020: Anderson Localisation and Related Topics"
+title: "The 10th International Scientific Conference on Physics and Control"
 authors: [""]
-date: 2020-08-24
+date: 2021-10-04
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Poster: *Localized vs. Delocalized Responses in Fluctuation-driven Networks*"
+summary: "Talk: *Predicting Risks in Fluctuation Driven Power Grids*"
 
 tags: ["network responses", "pattern formation"]
 categories: []
