@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "线上"
   organization_url = ""
-  title = "Predicting Risks in Fluctuation Driven Power Grids"
+  title = "The 10th International Scientific Conference on Physics and Control"
   url = "http://physcon2021.org"
   certificate_url = ""
   date_start = "2021-10-04"
