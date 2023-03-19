@@ -6,12 +6,12 @@ title: Xiaozhu Zhang
 superuser: true
 
 # Role/position
-role: Post-doctoral Researcher
+role: Associate Professor (tenure-track)
 
 # Organizations/Affiliations
 organizations:
-- name: Technical University Dresden
-  url: "https://cfaed.tu-dresden.de/cfnd-staff"
+- name: Tongji University
+  url: "https://physics.tongji.edu.cn/En/FacultyDetail/Xiaozhu-ZHANG"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,7 +44,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: far
-  link: 'mailto:xiaozhu.zhang@tu-dresden.de' 
+  link: 'mailto:xiaozhu_zhang@tongji.edu.cn' 
 
  # For a direct email link, use "mailto:test@example.org".
  # For going to contact widget, use '/#contact'
@@ -65,7 +65,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Xiaozhu_Zhang
 
-#- icon: github
+# - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 
@@ -89,13 +89,15 @@ highlight_name: true
 #- Visitors
 ---
 
+
+
 Hey there! 
 
-I am Xiaozhu Zhang, a post-doctoral researcher at Technical University Dresden in Germany, and a hopefully soon-to-be complex system scientist :smile:
+I am Xiaozhu Zhang, now working as an Associate Professor at Tongji University back in Shanghai (= the beloved city I grew up in) after more than 13 years studying and doing research in Germany.
 
 When I was a teenager, a book called "Order out of Chaos" piqued my curiosity on complex systems: complexity lies in practically everything around us, giving rise to order from disarray and certainty from randomness—it's almost magic!
 
-To study complex systems as a science, I came to Germany, started from Bachelor and went all the way to post-doc. With the help of all my mentors, I have obtained a much deeper understanding for complex systems, especially the dynamics of complex networks, by accomplishing all the projects and theses. Yet I found myself facing an ever greater unknown than I was as a teenager: For instance, when and how a single transmission line failure triggers the global breakdown of a power grid with complex topological structure? How can we build more stable, safer and controllable systems by optimizing the connectivities and interactions between the units?
+To study complex systems as a science, I travelled alone to Germany, started from Bachelor and went all the way to post-doc. With the help of all my mentors, I've got a much deeper understanding for complex systems, especially the dynamics of complex networks. Yet I found myself facing an ever greater unknown than I was as a teenager: For instance, when and how a single transmission line failure triggers the global breakdown of a power grid with complex topological structure? How can we build more stable, safer and controllable systems by optimizing the connectivities and interactions between the units?
 
 > *On and on stretched my road, long it was and far,*
 >
@@ -103,6 +105,9 @@ To study complex systems as a science, I came to Germany, started from Bachelor 
 
 These are 2000-years-old chantings by [*Qu Yuan*](https://en.wikipedia.org/wiki/Qu_Yuan) (English translation by Stephen Owen in 1996), yet still resonate with me today.
 
+---
+
+My research interests include (but not limited to): **dynamics of complex networks**, **self-organization** and **collective behaviour** in complex systems, **nonlinear** dynamics...
 <!---
 ---
 
@@ -117,6 +122,3 @@ These are 2000-years-old chantings by [*Qu Yuan*](https://en.wikipedia.org/wiki/
 Updated on Oct 25, 2021
 -->
 
-<!--English translation by Stephen Owen. See Stephen Owen(1996). An Anthology of Chinese Literature: Beginnings to 1911 (New York: W.W. Norton): 162–75.-->
-
-<!--Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.-->

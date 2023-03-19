@@ -6,12 +6,12 @@ title: 张潇竹
 superuser: true
 
 # Role/position
-role: 博后
+role: (预聘)副教授
 
 # Organizations/Affiliations
 organizations:
-- name: 德累斯顿工业大学
-  url: "https://cfaed.tu-dresden.de/cfnd-staff"
+- name: 同济大学
+  url: "https://physics.tongji.edu.cn/Web/FacultyDetail/Xiaozhu-ZHANG"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,7 +44,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: far
-  link: 'mailto:xiaozhu.zhang@tu-dresden.de' 
+  link: 'mailto:xiaozhu_zhang@tongji.edu.cn' 
 
  # For a direct email link, use "mailto:test@example.org".
  # For going to contact widget, use '/#contact'
@@ -89,16 +89,19 @@ user_groups:
 - Visitors
 ---
 
-你好吖 ~
+你好吖～
 
-我是张潇竹，现在在德国德累斯顿工业大学做博后，正在努力成为一个复杂系统科学家 :smile:
+我叫张潇竹，现在在同济大学担任（预聘）副教授。经过13年在德国的学习科研，终于回到老家上海啦，嗨森～ :smile:
 
 小时候看的一本科普书《从混沌到有序》点燃了我对复杂系统的兴趣：原来在我们身边复杂系统无处不在，而且通过系统中各部分的相互作用，无序中可以诞生有序，随机中可以诞生确定，这简直太神奇了。
 
-怀着想好好研究复杂系统的心情，我来到德国求学，从本科到博后，一转眼已经十多年。通过一个个课题，一篇篇论文，在各位导师的帮助下，我对复杂系统，特别是复杂网络动力学有了比小时候更深刻的了解，但所面临的未知却更浩瀚了：例如，在一个结构复杂的电网中，一根电缆的故障如何导致整个系统的崩溃？我们又如何利用复杂网络的结构和相互作用，建造更稳定更安全更可控的系统？
+怀着想好好研究复杂系统的心情，我独自到德国求学，从本科到博后，一转眼就是十多年。在各位导师的帮助下，我对复杂系统，特别是复杂网络动力学有了比小时候更深刻的了解，但所面临的未知却更浩瀚了：例如，在一个结构复杂的电网中，一根电缆的故障如何导致整个系统的崩溃？我们又如何利用复杂网络的结构和相互作用，建造更稳定更安全更可控的系统？
 
 路漫漫其修远兮，上下求索是初心，也是惟一所愿。
 
+--- 
+
+感兴趣的领域包括（但不限于）：复杂**网络动力学**，复杂系统中的**自组织**与**群体行为**，**非线性**动力学……
 
 
 

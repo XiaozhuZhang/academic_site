@@ -5,10 +5,11 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "科研方向"
+title = "科研成果"
 subtitle = ""
 
 [content]
+
   # Page type to display. E.g. project.
   page_type = "project"
 
