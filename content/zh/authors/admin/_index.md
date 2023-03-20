@@ -101,9 +101,12 @@ user_groups:
 
 --- 
 
-感兴趣的领域包括（但不限于）：复杂**网络动力学**，复杂系统中的**自组织**与**群体行为**，**非线性**动力学……
+感兴趣的领域包括（但不限于）：
+- 复杂**网络动力学**，
+- 复杂系统中的**自组织**与**群体行为**，以及
+- **非线性动力学**……
 
-
+现在和[*严钢*](https://physics.tongji.edu.cn/Web/FacultyDetail/Gang-YAN)老师一起工作，他是网络科学与（类）脑神经网络方面的专家哦。我们团队现在招[*博士后*](https://mp.weixin.qq.com/s/tJV9xqFbHOvHcvlSfAeduQ)中，欢迎加入～ :smile:
 
 
 <!---{{< icon name="terminal" pack="fas" >}} 最近在做什么呢？

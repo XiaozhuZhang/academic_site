@@ -107,7 +107,14 @@ These are 2000-years-old chantings by [*Qu Yuan*](https://en.wikipedia.org/wiki/
 
 ---
 
-My research interests include (but not limited to): **dynamics of complex networks**, **self-organization** and **collective behaviour** in complex systems, **nonlinear** dynamics...
+My research interests include (but not limited to): 
+- **dynamics of complex networks**,
+- **self-organization** and **collective behaviour** in complex systems, and
+- **nonlinear dynamics**...
+
+I'm currently working jointly with [*Prof. Gang Yan*](https://physics.tongji.edu.cn/En/FacultyDetail/Gang-YAN) who is an distinguished scientist specialized in network science and brain-inspired systems.
+
+We have now [*openings for post-docs*](https://mp.weixin.qq.com/s/tJV9xqFbHOvHcvlSfAeduQ) and welcome all to apply! :smile:
 <!---
 ---
 
