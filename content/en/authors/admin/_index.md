@@ -97,7 +97,7 @@ I am Xiaozhu Zhang, now working as an Associate Professor at Tongji University b
 
 When I was a teenager, a book called "Order out of Chaos" piqued my curiosity on complex systems: complexity lies in practically everything around us, giving rise to order from disarray and certainty from randomness—it's almost magic!
 
-To study complex systems as a science, I travelled alone to Germany, started from Bachelor and went all the way to post-doc. With the help of all my mentors, I've got a much deeper understanding for complex systems, especially the dynamics of complex networks. Yet I found myself facing an ever greater unknown than I was as a teenager: For instance, when and how a single transmission line failure triggers the global breakdown of a power grid with complex topological structure? How can we build more stable, safer and controllable systems by optimizing the connectivities and interactions between the units?
+To study complex systems as a science, I travelled alone to Germany, started from Bachelor and went all the way to post-doc. With the help of all my mentors, I've got a much deeper understanding for complex systems, especially dynamics on complex networks. Yet I found myself facing an ever greater unknown than I was as a teenager: For instance, when and how a single transmission line failure triggers the global breakdown of a power grid with complex topological structure? How can we build more stable, safer and controllable systems by optimizing the connectivities and interactions between the units?
 
 > *On and on stretched my road, long it was and far,*
 >
@@ -112,7 +112,7 @@ My research interests include (but not limited to):
 - **self-organization** and **collective behaviour** in complex systems, and
 - **nonlinear dynamics**...
 
-I'm currently working jointly with [*Prof. Gang Yan*](https://physics.tongji.edu.cn/En/FacultyDetail/Gang-YAN) who is an distinguished scientist specialized in network science and brain-inspired systems.
+I'm currently working jointly with [*Prof. Gang Yan*](https://physics.tongji.edu.cn/En/FacultyDetail/Gang-YAN) who is a distinguished scientist specialized in network science and brain-inspired systems.
 
 We have now [*openings for post-docs*](https://mp.weixin.qq.com/s/tJV9xqFbHOvHcvlSfAeduQ) and welcome all to apply! :smile:
 <!---
